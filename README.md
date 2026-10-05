@@ -12,6 +12,6 @@ Personal persistence and other minds share an epistemic structure: present exper
 
 ## Publication status
 
-Prepared October 5, 2026. PhilPapers and Zenodo submission pending. No DOI or public record has been assigned.
+Published on PhilPapers October 5, 2026: [SERWIC](https://philpapers.org/rec/SERWIC). [Source repository](https://github.com/Innomen/why-i-cannot-prove-mine-or-discard-yours). Zenodo mirror pending: the publishing dispatcher lacks its ZENODO_TOKEN secret; no deposit was created.
 
 Copyright © 2026 Brandon M. Sergent. All rights reserved; free to read.
